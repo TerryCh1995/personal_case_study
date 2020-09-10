@@ -1,2 +1,0 @@
-# personal_case_study
-personal_case_study
